@@ -1,0 +1,1 @@
+console.log(new date(December 22, 2014))

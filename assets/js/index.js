@@ -79,6 +79,7 @@ console.log(response)
 
 });
 
+console.log(new Date('December 22, 2014'))
 
 
 
